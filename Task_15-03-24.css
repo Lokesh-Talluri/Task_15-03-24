@@ -1,0 +1,25 @@
+/* External CSS */
+.r3c4 {
+  background-color: black;
+}
+.r3c5 {
+  background-color: white;
+}
+.r3c6 {
+  background-color: orange;
+}
+
+#r4c5 {
+  background-color: indianred;
+}
+#r4c6 {
+  background-color: deeppink;
+}
+
+/* id first, class second vice versa */
+#row5C2 {
+  background-color: darkorchid;
+}
+.r5c2 {
+  background-color: red;
+}
